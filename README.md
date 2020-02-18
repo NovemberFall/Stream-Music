@@ -33,12 +33,12 @@ use PHP + Mysql, Vue.js for Front-end; Jsp+Servlert JDBC for Back-end; use Vue.j
 - click `User Defined`
 - you can play any songs you downloaded
 - can change the source code to increasing the size of songs array
-![](img/2020-02-17-20-29-28.png)
+![](img/2020-02-18-00-26-36.png)
 - click `disk` icon
 ![](img/2020-02-17-20-30-05.png)
 - click open
 - click play icon
-![](img/2020-02-17-20-31-03.png)
+![](img/2020-02-18-00-28-24.png)
 - including 
     1. play
     2. pause
